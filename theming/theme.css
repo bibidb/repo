@@ -770,4 +770,69 @@ body,
 }
 .notion-table-row td[style*='background:'] {
   background: var(--theme--bg_secondary) !important;
+[style*='background: rgb(80, 85, 88);'][style*='color: rgba(255, 255, 255, 0.7)']
+{
+  background: #e2e1df !important;
+  color: rgb(55, 53, 47) !important;
 }
+
+[style*='background: rgb(80, 85, 88);'][style*='width: 18px;'][style*='height: 18px;']
+{
+  background: #e2e1df !important;
+  color: rgb(55, 53, 47) !important;
+}
+
+[style*='background: rgba(151, 154, 155, 0.5);']
+{
+  background: #bbbab9 !important;
+  color: rgb(55, 53, 47) !important;
+}
+
+[style*='background: rgba(147, 114, 100, 0.5)']
+{
+  background: #dcc0b3 !important;
+  color: rgb(55, 53, 47) !important;
+}
+
+[style*='background: rgba(255, 163, 68, 0.5)']
+{
+  background: #fddfcc !important;
+  color: rgb(55, 53, 47) !important;
+}
+
+[style*='background: rgba(255, 220, 73, 0.5)']
+{
+  background: #fbeecc !important;
+  color: rgb(55, 53, 47) !important;
+}
+
+[style*='background: rgba(77, 171, 154, 0.5)']
+{
+  background: #cce7e1 !important;
+  color: rgb(55, 53, 47) !important;
+}
+
+[style*='background: rgba(82, 156, 202, 0.5)']
+{
+  background: #cce4f9 !important;
+  color: rgb(55, 53, 47) !important;
+}
+
+[style*='background: rgba(154, 109, 215, 0.5)']
+{
+  background: #e1d3f8 !important;
+  color: rgb(55, 53, 47) !important;
+}
+
+[style*='background: rgba(226, 85, 161, 0.5)']
+{
+  background: #f8cce6 !important;
+  color: rgb(55, 53, 47) !important;
+}
+
+[style*='background: rgba(255, 115, 105, 0.5)']
+{
+  background: #ffccd1 !important;
+  color: rgb(55, 53, 47) !important;
+}
+
